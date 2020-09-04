@@ -1,0 +1,958 @@
+# Created at 2020-09-04T15:17:50.747
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-09-04T15:17:51.303
+Unexpected IOException with stream: 2020-09-04 15:17:51.302  INFO 3212 --- [           main] c.e.springboot.HelloControllerTest       : Started HelloControllerTest in 2.005 seconds (JVM running for 2.886)
+
+
+# Created at 2020-09-04T15:17:51.341
+Unexpected IOException with stream: Let's inspect the beans provided by Spring Boot:
+
+
+# Created at 2020-09-04T15:17:51.342
+Unexpected IOException with stream: application
+
+
+# Created at 2020-09-04T15:17:51.342
+Unexpected IOException with stream: applicationAvailability
+
+
+# Created at 2020-09-04T15:17:51.342
+Unexpected IOException with stream: applicationTaskExecutor
+
+
+# Created at 2020-09-04T15:17:51.343
+Unexpected IOException with stream: basicErrorController
+
+
+# Created at 2020-09-04T15:17:51.343
+Unexpected IOException with stream: beanNameHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.346
+Unexpected IOException with stream: beanNameViewResolver
+
+
+# Created at 2020-09-04T15:17:51.347
+Unexpected IOException with stream: characterEncodingFilter
+
+
+# Created at 2020-09-04T15:17:51.347
+Unexpected IOException with stream: classLoaderMetrics
+
+
+# Created at 2020-09-04T15:17:51.347
+Unexpected IOException with stream: commandLineRunner
+
+
+# Created at 2020-09-04T15:17:51.348
+Unexpected IOException with stream: controllerEndpointDiscoverer
+
+
+# Created at 2020-09-04T15:17:51.348
+Unexpected IOException with stream: controllerEndpointHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.349
+Unexpected IOException with stream: controllerExposeExcludePropertyEndpointFilter
+
+
+# Created at 2020-09-04T15:17:51.349
+Unexpected IOException with stream: conventionErrorViewResolver
+
+
+# Created at 2020-09-04T15:17:51.349
+Unexpected IOException with stream: defaultServletHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.350
+Unexpected IOException with stream: defaultViewResolver
+
+
+# Created at 2020-09-04T15:17:51.350
+Unexpected IOException with stream: diskSpaceHealthIndicator
+
+
+# Created at 2020-09-04T15:17:51.351
+Unexpected IOException with stream: dispatcherServlet
+
+
+# Created at 2020-09-04T15:17:51.351
+Unexpected IOException with stream: dispatcherServletMappingDescriptionProvider
+
+
+# Created at 2020-09-04T15:17:51.351
+Unexpected IOException with stream: dispatcherServletRegistration
+
+
+# Created at 2020-09-04T15:17:51.352
+Unexpected IOException with stream: endpointCachingOperationInvokerAdvisor
+
+
+# Created at 2020-09-04T15:17:51.352
+Unexpected IOException with stream: endpointMediaTypes
+
+
+# Created at 2020-09-04T15:17:51.352
+Unexpected IOException with stream: endpointOperationParameterMapper
+
+
+# Created at 2020-09-04T15:17:51.353
+Unexpected IOException with stream: envInfoContributor
+
+
+# Created at 2020-09-04T15:17:51.353
+Unexpected IOException with stream: error
+
+
+# Created at 2020-09-04T15:17:51.353
+Unexpected IOException with stream: errorAttributes
+
+
+# Created at 2020-09-04T15:17:51.354
+Unexpected IOException with stream: errorPageCustomizer
+
+
+# Created at 2020-09-04T15:17:51.354
+Unexpected IOException with stream: errorPageRegistrarBeanPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.355
+Unexpected IOException with stream: fileDescriptorMetrics
+
+
+# Created at 2020-09-04T15:17:51.355
+Unexpected IOException with stream: filterMappingDescriptionProvider
+
+
+# Created at 2020-09-04T15:17:51.355
+Unexpected IOException with stream: formContentFilter
+
+
+# Created at 2020-09-04T15:17:51.356
+Unexpected IOException with stream: handlerExceptionResolver
+
+
+# Created at 2020-09-04T15:17:51.356
+Unexpected IOException with stream: handlerFunctionAdapter
+
+
+# Created at 2020-09-04T15:17:51.356
+Unexpected IOException with stream: healthAggregator
+
+
+# Created at 2020-09-04T15:17:51.357
+Unexpected IOException with stream: healthContributorRegistry
+
+
+# Created at 2020-09-04T15:17:51.357
+Unexpected IOException with stream: healthEndpoint
+
+
+# Created at 2020-09-04T15:17:51.358
+Unexpected IOException with stream: healthEndpointGroups
+
+
+# Created at 2020-09-04T15:17:51.358
+Unexpected IOException with stream: healthEndpointGroupsBeanPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.358
+Unexpected IOException with stream: healthEndpointProperties
+
+
+# Created at 2020-09-04T15:17:51.359
+Unexpected IOException with stream: healthEndpointWebExtension
+
+
+# Created at 2020-09-04T15:17:51.359
+Unexpected IOException with stream: healthHttpCodeStatusMapper
+
+
+# Created at 2020-09-04T15:17:51.359
+Unexpected IOException with stream: healthIndicatorRegistry
+
+
+# Created at 2020-09-04T15:17:51.360
+Unexpected IOException with stream: healthStatusAggregator
+
+
+# Created at 2020-09-04T15:17:51.360
+Unexpected IOException with stream: helloController
+
+
+# Created at 2020-09-04T15:17:51.361
+Unexpected IOException with stream: httpRequestHandlerAdapter
+
+
+# Created at 2020-09-04T15:17:51.362
+Unexpected IOException with stream: infoEndpoint
+
+
+# Created at 2020-09-04T15:17:51.362
+Unexpected IOException with stream: jacksonObjectMapper
+
+
+# Created at 2020-09-04T15:17:51.363
+Unexpected IOException with stream: jacksonObjectMapperBuilder
+
+
+# Created at 2020-09-04T15:17:51.363
+Unexpected IOException with stream: jsonComponentModule
+
+
+# Created at 2020-09-04T15:17:51.364
+Unexpected IOException with stream: jvmGcMetrics
+
+
+# Created at 2020-09-04T15:17:51.364
+Unexpected IOException with stream: jvmMemoryMetrics
+
+
+# Created at 2020-09-04T15:17:51.365
+Unexpected IOException with stream: jvmThreadMetrics
+
+
+# Created at 2020-09-04T15:17:51.365
+Unexpected IOException with stream: lifecycleProcessor
+
+
+# Created at 2020-09-04T15:17:51.366
+Unexpected IOException with stream: localeCharsetMappingsCustomizer
+
+
+# Created at 2020-09-04T15:17:51.366
+Unexpected IOException with stream: logbackMetrics
+
+
+# Created at 2020-09-04T15:17:51.366
+Unexpected IOException with stream: management.endpoints.web-org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties
+
+
+# Created at 2020-09-04T15:17:51.367
+Unexpected IOException with stream: management.endpoints.web.cors-org.springframework.boot.actuate.autoconfigure.endpoint.web.CorsEndpointProperties
+
+
+# Created at 2020-09-04T15:17:51.367
+Unexpected IOException with stream: management.health.diskspace-org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorProperties
+
+
+# Created at 2020-09-04T15:17:51.368
+Unexpected IOException with stream: management.health.status-org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorProperties
+
+
+# Created at 2020-09-04T15:17:51.368
+Unexpected IOException with stream: management.info-org.springframework.boot.actuate.autoconfigure.info.InfoContributorProperties
+
+
+# Created at 2020-09-04T15:17:51.368
+Unexpected IOException with stream: management.metrics-org.springframework.boot.actuate.autoconfigure.metrics.MetricsProperties
+
+
+# Created at 2020-09-04T15:17:51.369
+Unexpected IOException with stream: management.metrics.export.simple-org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleProperties
+
+
+# Created at 2020-09-04T15:17:51.369
+Unexpected IOException with stream: management.server-org.springframework.boot.actuate.autoconfigure.web.server.ManagementServerProperties
+
+
+# Created at 2020-09-04T15:17:51.370
+Unexpected IOException with stream: managementServletContext
+
+
+# Created at 2020-09-04T15:17:51.370
+Unexpected IOException with stream: mappingJackson2HttpMessageConverter
+
+
+# Created at 2020-09-04T15:17:51.370
+Unexpected IOException with stream: messageConverters
+
+
+# Created at 2020-09-04T15:17:51.371
+Unexpected IOException with stream: meterRegistryPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.371
+Unexpected IOException with stream: metricsHttpClientUriTagFilter
+
+
+# Created at 2020-09-04T15:17:51.371
+Unexpected IOException with stream: metricsHttpServerUriTagFilter
+
+
+# Created at 2020-09-04T15:17:51.372
+Unexpected IOException with stream: metricsRestTemplateCustomizer
+
+
+# Created at 2020-09-04T15:17:51.372
+Unexpected IOException with stream: metricsWebMvcConfigurer
+
+
+# Created at 2020-09-04T15:17:51.372
+Unexpected IOException with stream: micrometerClock
+
+
+# Created at 2020-09-04T15:17:51.373
+Unexpected IOException with stream: multipartConfigElement
+
+
+# Created at 2020-09-04T15:17:51.373
+Unexpected IOException with stream: multipartResolver
+
+
+# Created at 2020-09-04T15:17:51.373
+Unexpected IOException with stream: mvcContentNegotiationManager
+
+
+# Created at 2020-09-04T15:17:51.374
+Unexpected IOException with stream: mvcConversionService
+
+
+# Created at 2020-09-04T15:17:51.374
+Unexpected IOException with stream: mvcHandlerMappingIntrospector
+
+
+# Created at 2020-09-04T15:17:51.374
+Unexpected IOException with stream: mvcPathMatcher
+
+
+# Created at 2020-09-04T15:17:51.375
+Unexpected IOException with stream: mvcResourceUrlProvider
+
+
+# Created at 2020-09-04T15:17:51.375
+Unexpected IOException with stream: mvcUriComponentsContributor
+
+
+# Created at 2020-09-04T15:17:51.375
+Unexpected IOException with stream: mvcUrlPathHelper
+
+
+# Created at 2020-09-04T15:17:51.376
+Unexpected IOException with stream: mvcValidator
+
+
+# Created at 2020-09-04T15:17:51.377
+Unexpected IOException with stream: mvcViewResolver
+
+
+# Created at 2020-09-04T15:17:51.377
+Unexpected IOException with stream: org.springframework.aop.config.internalAutoProxyCreator
+
+
+# Created at 2020-09-04T15:17:51.378
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.availability.AvailabilityHealthContributorAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.379
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.379
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration
+
+
+# Created at 2020-09-04T15:17:51.379
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration$WebMvcServletEndpointManagementContextConfiguration
+
+
+# Created at 2020-09-04T15:17:51.380
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.380
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration$WebEndpointServletConfiguration
+
+
+# Created at 2020-09-04T15:17:51.380
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.endpoint.web.servlet.WebMvcEndpointManagementContextConfiguration
+
+
+# Created at 2020-09-04T15:17:51.381
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.HealthContributorAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.381
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.HealthEndpointAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.381
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.HealthEndpointConfiguration
+
+
+# Created at 2020-09-04T15:17:51.382
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration
+
+
+# Created at 2020-09-04T15:17:51.382
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.LegacyHealthEndpointAdaptersConfiguration
+
+
+# Created at 2020-09-04T15:17:51.382
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.health.LegacyHealthEndpointCompatibilityConfiguration
+
+
+# Created at 2020-09-04T15:17:51.383
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.383
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.info.InfoEndpointAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.383
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.384
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.JvmMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.384
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.LogbackMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.385
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.385
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.SystemMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.385
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.386
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.web.client.HttpClientMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.386
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsConfiguration
+
+
+# Created at 2020-09-04T15:17:51.386
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.web.servlet.WebMvcMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.387
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.metrics.web.tomcat.TomcatMetricsAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.387
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthContributorAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.387
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.388
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration$ServletWebConfiguration
+
+
+# Created at 2020-09-04T15:17:51.388
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration$ServletWebConfiguration$SpringMvcConfiguration
+
+
+# Created at 2020-09-04T15:17:51.388
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.389
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration
+
+
+# Created at 2020-09-04T15:17:51.389
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration$EnableSameManagementContextConfiguration
+
+
+# Created at 2020-09-04T15:17:51.389
+Unexpected IOException with stream: org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.389
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.AutoConfigurationPackages
+
+
+# Created at 2020-09-04T15:17:51.390
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.aop.AopAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.390
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$ClassProxyingConfiguration
+
+
+# Created at 2020-09-04T15:17:51.390
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.availability.ApplicationAvailabilityAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.391
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.391
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.391
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.392
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.392
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration
+
+
+# Created at 2020-09-04T15:17:51.393
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration
+
+
+# Created at 2020-09-04T15:17:51.393
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration
+
+
+# Created at 2020-09-04T15:17:51.394
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.394
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory
+
+
+# Created at 2020-09-04T15:17:51.395
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.395
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration
+
+
+# Created at 2020-09-04T15:17:51.396
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration
+
+
+# Created at 2020-09-04T15:17:51.396
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration
+
+
+# Created at 2020-09-04T15:17:51.396
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration
+
+
+# Created at 2020-09-04T15:17:51.397
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.397
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.398
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.398
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.398
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration$TomcatWebServerFactoryCustomizerConfiguration
+
+
+# Created at 2020-09-04T15:17:51.399
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.399
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletConfiguration
+
+
+# Created at 2020-09-04T15:17:51.400
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationConfiguration
+
+
+# Created at 2020-09-04T15:17:51.400
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.401
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.401
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.402
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat
+
+
+# Created at 2020-09-04T15:17:51.402
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.402
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration
+
+
+# Created at 2020-09-04T15:17:51.403
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter
+
+
+# Created at 2020-09-04T15:17:51.403
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.404
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration
+
+
+# Created at 2020-09-04T15:17:51.404
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration
+
+
+# Created at 2020-09-04T15:17:51.404
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration
+
+
+# Created at 2020-09-04T15:17:51.405
+Unexpected IOException with stream: org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration$TomcatWebSocketConfiguration
+
+
+# Created at 2020-09-04T15:17:51.405
+Unexpected IOException with stream: org.springframework.boot.context.internalConfigurationPropertiesBinder
+
+
+# Created at 2020-09-04T15:17:51.406
+Unexpected IOException with stream: org.springframework.boot.context.internalConfigurationPropertiesBinderFactory
+
+
+# Created at 2020-09-04T15:17:51.406
+Unexpected IOException with stream: org.springframework.boot.context.properties.BoundConfigurationProperties
+
+
+# Created at 2020-09-04T15:17:51.406
+Unexpected IOException with stream: org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
+
+
+# Created at 2020-09-04T15:17:51.407
+Unexpected IOException with stream: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.407
+Unexpected IOException with stream: org.springframework.boot.test.mock.mockito.MockitoPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.408
+Unexpected IOException with stream: org.springframework.boot.test.mock.mockito.MockitoPostProcessor$SpyPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.408
+Unexpected IOException with stream: org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+
+
+# Created at 2020-09-04T15:17:51.409
+Unexpected IOException with stream: org.springframework.context.annotation.internalCommonAnnotationProcessor
+
+
+# Created at 2020-09-04T15:17:51.409
+Unexpected IOException with stream: org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+
+
+# Created at 2020-09-04T15:17:51.409
+Unexpected IOException with stream: org.springframework.context.event.internalEventListenerFactory
+
+
+# Created at 2020-09-04T15:17:51.410
+Unexpected IOException with stream: org.springframework.context.event.internalEventListenerProcessor
+
+
+# Created at 2020-09-04T15:17:51.410
+Unexpected IOException with stream: parameterNamesModule
+
+
+# Created at 2020-09-04T15:17:51.411
+Unexpected IOException with stream: pathMappedEndpoints
+
+
+# Created at 2020-09-04T15:17:51.411
+Unexpected IOException with stream: pingHealthContributor
+
+
+# Created at 2020-09-04T15:17:51.411
+Unexpected IOException with stream: preserveErrorControllerTargetClassPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.412
+Unexpected IOException with stream: processorMetrics
+
+
+# Created at 2020-09-04T15:17:51.412
+Unexpected IOException with stream: propertiesMeterFilter
+
+
+# Created at 2020-09-04T15:17:51.412
+Unexpected IOException with stream: propertySourcesPlaceholderConfigurer
+
+
+# Created at 2020-09-04T15:17:51.413
+Unexpected IOException with stream: requestContextFilter
+
+
+# Created at 2020-09-04T15:17:51.413
+Unexpected IOException with stream: requestMappingHandlerAdapter
+
+
+# Created at 2020-09-04T15:17:51.413
+Unexpected IOException with stream: requestMappingHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.413
+Unexpected IOException with stream: resourceHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.414
+Unexpected IOException with stream: restTemplateBuilder
+
+
+# Created at 2020-09-04T15:17:51.414
+Unexpected IOException with stream: restTemplateExchangeTagsProvider
+
+
+# Created at 2020-09-04T15:17:51.414
+Unexpected IOException with stream: routerFunctionMapping
+
+
+# Created at 2020-09-04T15:17:51.415
+Unexpected IOException with stream: server-org.springframework.boot.autoconfigure.web.ServerProperties
+
+
+# Created at 2020-09-04T15:17:51.415
+Unexpected IOException with stream: servletEndpointDiscoverer
+
+
+# Created at 2020-09-04T15:17:51.415
+Unexpected IOException with stream: servletEndpointRegistrar
+
+
+# Created at 2020-09-04T15:17:51.416
+Unexpected IOException with stream: servletExposeExcludePropertyEndpointFilter
+
+
+# Created at 2020-09-04T15:17:51.416
+Unexpected IOException with stream: servletMappingDescriptionProvider
+
+
+# Created at 2020-09-04T15:17:51.416
+Unexpected IOException with stream: servletWebChildContextFactory
+
+
+# Created at 2020-09-04T15:17:51.416
+Unexpected IOException with stream: servletWebServerFactoryCustomizer
+
+
+# Created at 2020-09-04T15:17:51.417
+Unexpected IOException with stream: simpleConfig
+
+
+# Created at 2020-09-04T15:17:51.417
+Unexpected IOException with stream: simpleControllerHandlerAdapter
+
+
+# Created at 2020-09-04T15:17:51.417
+Unexpected IOException with stream: simpleMeterRegistry
+
+
+# Created at 2020-09-04T15:17:51.418
+Unexpected IOException with stream: spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties
+
+
+# Created at 2020-09-04T15:17:51.418
+Unexpected IOException with stream: spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties
+
+
+# Created at 2020-09-04T15:17:51.418
+Unexpected IOException with stream: spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties
+
+
+# Created at 2020-09-04T15:17:51.419
+Unexpected IOException with stream: spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties
+
+
+# Created at 2020-09-04T15:17:51.419
+Unexpected IOException with stream: spring.resources-org.springframework.boot.autoconfigure.web.ResourceProperties
+
+
+# Created at 2020-09-04T15:17:51.419
+Unexpected IOException with stream: spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties
+
+
+# Created at 2020-09-04T15:17:51.420
+Unexpected IOException with stream: spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties
+
+
+# Created at 2020-09-04T15:17:51.420
+Unexpected IOException with stream: spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties
+
+
+# Created at 2020-09-04T15:17:51.420
+Unexpected IOException with stream: standardJacksonObjectMapperBuilderCustomizer
+
+
+# Created at 2020-09-04T15:17:51.420
+Unexpected IOException with stream: stringHttpMessageConverter
+
+
+# Created at 2020-09-04T15:17:51.421
+Unexpected IOException with stream: taskExecutorBuilder
+
+
+# Created at 2020-09-04T15:17:51.421
+Unexpected IOException with stream: taskSchedulerBuilder
+
+
+# Created at 2020-09-04T15:17:51.421
+Unexpected IOException with stream: tomcatMetricsBinder
+
+
+# Created at 2020-09-04T15:17:51.422
+Unexpected IOException with stream: tomcatServletWebServerFactory
+
+
+# Created at 2020-09-04T15:17:51.422
+Unexpected IOException with stream: tomcatServletWebServerFactoryCustomizer
+
+
+# Created at 2020-09-04T15:17:51.422
+Unexpected IOException with stream: tomcatWebServerFactoryCustomizer
+
+
+# Created at 2020-09-04T15:17:51.422
+Unexpected IOException with stream: uptimeMetrics
+
+
+# Created at 2020-09-04T15:17:51.423
+Unexpected IOException with stream: viewControllerHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.423
+Unexpected IOException with stream: viewResolver
+
+
+# Created at 2020-09-04T15:17:51.423
+Unexpected IOException with stream: webEndpointDiscoverer
+
+
+# Created at 2020-09-04T15:17:51.424
+Unexpected IOException with stream: webEndpointPathMapper
+
+
+# Created at 2020-09-04T15:17:51.424
+Unexpected IOException with stream: webEndpointServletHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.424
+Unexpected IOException with stream: webExposeExcludePropertyEndpointFilter
+
+
+# Created at 2020-09-04T15:17:51.425
+Unexpected IOException with stream: webMvcMetricsFilter
+
+
+# Created at 2020-09-04T15:17:51.425
+Unexpected IOException with stream: webMvcTagsProvider
+
+
+# Created at 2020-09-04T15:17:51.425
+Unexpected IOException with stream: webServerFactoryCustomizerBeanPostProcessor
+
+
+# Created at 2020-09-04T15:17:51.426
+Unexpected IOException with stream: websocketServletWebServerCustomizer
+
+
+# Created at 2020-09-04T15:17:51.426
+Unexpected IOException with stream: welcomePageHandlerMapping
+
+
+# Created at 2020-09-04T15:17:51.439
+Unexpected IOException: 5,1,com.example.springboot.HelloControllerTest,getHello,null,null,null
+
+
+# Created at 2020-09-04T15:17:51.826
+Unexpected IOException with stream: /Kullanici
+
+# Created at 2020-09-04T15:17:51.826
+Unexpected IOException with stream: 
+
+
+# Created at 2020-09-04T15:17:51.827
+Unexpected IOException with stream: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+# Created at 2020-09-04T15:17:51.827
+Unexpected IOException with stream: get
+
+# Created at 2020-09-04T15:17:51.828
+Unexpected IOException with stream: 
+
+
+# Created at 2020-09-04T15:17:52.728
+Unexpected IOException with stream: Request method:	GET
+Request URI:	http://localhost:8080/Kullanici?body=TEST&KullaniciAd=TEST
+Proxy:			<none>
+Request params:	body=TEST
+				KullaniciAd=TEST
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+
+
+# Created at 2020-09-04T15:17:52.730
+Unexpected IOException with stream: 
+
+
+# Created at 2020-09-04T15:17:52.730
+Unexpected IOException with stream: HTTP/1.1 404 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Fri, 04 Sep 2020 12:17:52 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "timestamp": "2020-09-04T12:17:52.635+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "message": "",
+    "path": "/Kullanici"
+}
+
+
+# Created at 2020-09-04T15:17:52.744
+Unexpected IOException: 8,1,com.example.springboot.HelloControllerTest,getHello,null,1 expectation failed.\000AExpected status code <200> but was <404>.\000A,null,1 expectation failed.\000AExpected status code <200> but was <404>.\000A,HelloControllerTest.getHello:25->lambda$getHello$3:29->lambda$getHello$2:57 1 expectation failed.\000AExpected status code <200> but was <404>.\000A,java.lang.AssertionError: \000A1 expectation failed.\000AExpected status code <200> but was <404>.\000A\000A\0009at com.example.springboot.HelloControllerTest.lambda$getHello$2(HelloControllerTest.java:57)\000A\0009at com.example.springboot.HelloControllerTest.lambda$getHello$3(HelloControllerTest.java:29)\000A\0009at com.example.springboot.HelloControllerTest.getHello(HelloControllerTest.java:25)\000A
+
+
+# Created at 2020-09-04T15:17:52.746
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.springboot.HelloControllerTest,null,null,null
+
+
